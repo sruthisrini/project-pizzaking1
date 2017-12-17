@@ -24,13 +24,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="${images}/slidepizza1.jpe" alt="">
+                                    <img class="slide-image" src="${images}/sp1.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="${images}/slidepizza2.jpe" alt="">
+                                    <img class="slide-image" src="${images}/sp3.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="${images}/slidepizza3.jpe" alt="">
+                                    <img class="slide-image" src="${images}/sp22.jpg" alt="">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
