@@ -50,7 +50,7 @@
                             <img src="${images}/pepper barbecue chicken.jpe" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 305 </h4>
-                                <h4><a href="#">Barbecue Chicken   </a>
+                                <h4><p> Chicken Pizza  </p>
                                 </h4>
                                 <p>Pepper Barbecue chicken & Cheese</p>
                             </div>
@@ -72,7 +72,7 @@
                             <img src="${images}/chicken sausage.jpe" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 290</h4>
-                                <h4><a href="#">Chicken Sausage  </a>
+                                <h4><p>Chicken Sausage  </p>
                                 </h4>
                                 <p>Chicken Sausage & Cheese</p>
                             </div>
@@ -94,7 +94,7 @@
                             <img src="${images}/chicken tikka.jpe" alt="" style="width:120px; height:110px;">
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 275 </h4>
-                                <h4><a href="#">Chicken Tikka</a>
+                                <h4><p>Chicken Tikka</p>
                                 </h4>
                                 <p>Chicken tikka,Onion & Sauce</p>
                             </div>
@@ -116,7 +116,7 @@
                             <img src="${images}/panneer.jpe" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 200</h4>
-                                <h4><a href="#">Panneer Pizza</a>
+                                <h4><p>Panneer Pizza</p>
                                 </h4>
                                 <p>Panneer & Capsicum</p>
                             </div>
@@ -138,7 +138,7 @@
                             <img src="${images}/mexican.jpe" alt="" style="width:120px; height:110px;">
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 280</h4>
-                                <h4><a href="#">Mexican Pizza</a>
+                                <h4><p>Mexican Pizza</p>
                                 </h4>
                                 <p>Capsicum,Corn & Pepperoni</p>
                             </div>
