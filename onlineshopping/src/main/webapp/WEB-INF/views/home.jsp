@@ -47,7 +47,7 @@
 
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
-                            <img src="${images}/pepper barbecue chicken.jpe" alt="" style="width:120px; height:110px;" >
+                            <img src="${images}/1111.jpg" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 305 </h4>
                                 <h4><p> Chicken Pizza  </p>
@@ -69,7 +69,7 @@
 
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
-                            <img src="${images}/chicken sausage.jpe" alt="" style="width:120px; height:110px;" >
+                            <img src="${images}/2222.jpg" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 290</h4>
                                 <h4><p>Chicken Sausage  </p>
@@ -91,7 +91,7 @@
 
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
-                            <img src="${images}/chicken tikka.jpe" alt="" style="width:120px; height:110px;">
+                            <img src="${images}/3333.jpg" alt="" style="width:120px; height:110px;">
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 275 </h4>
                                 <h4><p>Chicken Tikka</p>
@@ -113,7 +113,7 @@
 
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
-                            <img src="${images}/panneer.jpe" alt="" style="width:120px; height:110px;" >
+                            <img src="${images}/4444.jpg" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 200</h4>
                                 <h4><p>Panneer Pizza</p>
@@ -135,7 +135,7 @@
 
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
-                            <img src="${images}/mexican.jpe" alt="" style="width:120px; height:110px;">
+                            <img src="${images}/5555.jpg" alt="" style="width:120px; height:110px;">
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 280</h4>
                                 <h4><p>Mexican Pizza</p>
